@@ -1,0 +1,7 @@
+day 1
+
+#using bash
+
+install virtual environment #pip install virtualenv
+creating virtualenv using py -m venv or virtualenv envname(lms)
+activate source lms/Scripts/activate
